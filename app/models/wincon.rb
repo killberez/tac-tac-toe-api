@@ -1,0 +1,2 @@
+class Wincon < ApplicationRecord
+end

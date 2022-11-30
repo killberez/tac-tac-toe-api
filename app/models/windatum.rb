@@ -1,0 +1,2 @@
+class Windatum < ApplicationRecord
+end

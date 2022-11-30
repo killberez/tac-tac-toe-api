@@ -1,0 +1,2 @@
+class Wdb < ApplicationRecord
+end
